@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idle.png">
+<!-- Created with Adobe Animate version 22.0.7.214 -->
+<SubTexture name="Idle0000" x="5" y="5" width="748" height="490"/>
+<SubTexture name="Idle0001" x="5" y="5" width="748" height="490"/>
+<SubTexture name="Idle0002" x="753" y="5" width="748" height="490"/>
+<SubTexture name="Idle0003" x="1501" y="5" width="748" height="490"/>
+<SubTexture name="Idle0004" x="2249" y="5" width="748" height="490"/>
+<SubTexture name="Idle0005" x="2997" y="5" width="748" height="490"/>
+<SubTexture name="Idle0006" x="5" y="495" width="748" height="490"/>
+<SubTexture name="Idle0007" x="5" y="495" width="748" height="490"/>
+<SubTexture name="Idle0008" x="753" y="495" width="748" height="490"/>
+<SubTexture name="Idle0009" x="753" y="495" width="748" height="490"/>
+<SubTexture name="Idle0010" x="1501" y="495" width="748" height="490"/>
+<SubTexture name="Idle0011" x="1501" y="495" width="748" height="490"/>
+<SubTexture name="Scream0000" x="1501" y="495" width="748" height="490"/>
+<SubTexture name="Scream0001" x="1501" y="495" width="748" height="490"/>
+<SubTexture name="Scream0002" x="1501" y="495" width="748" height="490"/>
+<SubTexture name="Scream0003" x="2249" y="495" width="748" height="490"/>
+<SubTexture name="Scream0004" x="2997" y="495" width="748" height="490"/>
+<SubTexture name="Scream0005" x="5" y="985" width="748" height="490"/>
+<SubTexture name="Scream0006" x="5" y="985" width="748" height="490"/>
+<SubTexture name="Scream0007" x="753" y="985" width="748" height="490"/>
+<SubTexture name="Scream0008" x="1501" y="985" width="748" height="490"/>
+<SubTexture name="Scream0009" x="2249" y="985" width="748" height="490"/>
+<SubTexture name="Scream0010" x="2997" y="985" width="748" height="490"/>
+<SubTexture name="Scream0011" x="5" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0012" x="5" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0013" x="753" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0014" x="753" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0015" x="753" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0016" x="753" y="1475" width="748" height="490"/>
+<SubTexture name="Scream0017" x="753" y="1475" width="748" height="490"/>
+</TextureAtlas>
