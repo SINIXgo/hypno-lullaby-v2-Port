@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lolbf_idle"
+		},
+		{
+			"offsets": [
+				246,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lolbf_left"
+		},
+		{
+			"offsets": [
+				99,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lolbf_down"
+		},
+		{
+			"offsets": [
+				-59,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lolbf_up"
+		},
+		{
+			"offsets": [
+				-70,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lolbf_right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_but_in_minecrftno",
+	"position": [
+		-70,
+		300
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		30,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

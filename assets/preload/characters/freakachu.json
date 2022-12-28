@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				-479
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Freakachu IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				419,
+				-431
+			],
+			"anim": "split",
+			"fps": 24,
+			"name": "Freakachu PAIN SPLIT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red/freakachu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		15
+	],
+	"camera_position": [
+		-600,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
