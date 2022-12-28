@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bimbembo.png">
+	
+	
+	<SubTexture name="dsintro0000" x="10" y="10" width="43" height="54" frameX="0" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0001" x="63" y="10" width="60" height="54" frameX="0" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0002" x="133" y="10" width="107" height="54" frameX="0" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0003" x="250" y="10" width="147" height="54" frameX="0" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0004" x="407" y="10" width="185" height="54" frameX="-1" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0005" x="602" y="10" width="231" height="54" frameX="-1" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0006" x="843" y="10" width="271" height="54" frameX="-1" frameY="-65" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0007" x="1125" y="10" width="464" height="264" frameX="-1" frameY="-40" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0008" x="1599" y="10" width="464" height="260" frameX="-1" frameY="-44" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0009" x="2073" y="10" width="464" height="257" frameX="-1" frameY="-47" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0010" x="2547" y="10" width="464" height="253" frameX="-1" frameY="-51" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0011" x="3021" y="10" width="464" height="249" frameX="-1" frameY="-55" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0012" x="3495" y="10" width="464" height="246" frameX="-1" frameY="-58" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0013" x="10" y="284" width="464" height="242" frameX="-1" frameY="-62" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0014" x="484" y="284" width="464" height="272" frameX="-1" frameY="-32" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0015" x="958" y="284" width="464" height="276" frameX="-1" frameY="-28" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0016" x="1432" y="284" width="464" height="280" frameX="-1" frameY="-24" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0017" x="1906" y="284" width="464" height="284" frameX="-1" frameY="-20" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0018" x="2380" y="284" width="464" height="288" frameX="-1" frameY="-16" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0019" x="2854" y="284" width="464" height="292" frameX="-1" frameY="-12" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0020" x="3328" y="284" width="464" height="296" frameX="-1" frameY="-8" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0021" x="10" y="590" width="464" height="300" frameX="-1" frameY="-4" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0022" x="484" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0023" x="958" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0024" x="1432" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0025" x="1906" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0026" x="2380" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0027" x="2854" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0028" x="3328" y="590" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0029" x="10" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0030" x="484" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0031" x="958" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0032" x="1432" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0033" x="1906" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0034" x="2380" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0035" x="2854" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0036" x="3328" y="904" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0037" x="10" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0038" x="484" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0039" x="958" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0040" x="1432" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0041" x="1906" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0042" x="2380" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0043" x="2854" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0044" x="3328" y="1218" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0045" x="10" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0046" x="484" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0047" x="958" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0048" x="1432" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0049" x="1906" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0050" x="2380" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0051" x="2854" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0052" x="3328" y="1532" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0053" x="10" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0054" x="484" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0055" x="958" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0056" x="1432" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0057" x="1906" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+	<SubTexture name="dsintro0058" x="2380" y="1846" width="464" height="304" frameX="-1" frameY="0" frameWidth="464" frameHeight="304" />
+</TextureAtlas>
