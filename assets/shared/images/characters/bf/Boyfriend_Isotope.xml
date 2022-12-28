@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boyfriend_Isotope.png">
+	<SubTexture name="Bf Idle Dance0000" x="1" y="1" width="260" height="245" frameX="-11" frameY="-14" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0001" x="1" y="1" width="260" height="245" frameX="-11" frameY="-14" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0002" x="262" y="1" width="261" height="244" frameX="-4" frameY="-15" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0003" x="262" y="1" width="261" height="244" frameX="-4" frameY="-15" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0004" x="524" y="1" width="259" height="243" frameX="-2" frameY="-7" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0005" x="524" y="1" width="259" height="243" frameX="-2" frameY="-7" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0006" x="784" y="1" width="258" height="249" frameX="-1" frameY="-2" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0007" x="784" y="1" width="258" height="249" frameX="-1" frameY="-2" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0008" x="1043" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0009" x="1043" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0010" x="1301" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0011" x="1301" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0012" x="1301" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="Bf Idle Dance0013" x="1301" y="1" width="257" height="249" frameX="0" frameY="0" frameWidth="270" frameHeight="259" />
+	<SubTexture name="boyfriend down0000" x="1559" y="1" width="314" height="228" frameX="0" frameY="-9" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0001" x="1559" y="1" width="314" height="228" frameX="0" frameY="-9" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0002" x="1874" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0003" x="1874" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0004" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0005" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0006" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0007" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0008" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0009" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0010" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0011" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0012" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend down0013" x="2188" y="1" width="312" height="237" frameX="-1" frameY="0" frameWidth="314" frameHeight="237" />
+	<SubTexture name="boyfriend dow miss0000" x="2501" y="1" width="182" height="307" frameX="-121" frameY="0" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0001" x="2684" y="1" width="356" height="171" frameX="0" frameY="-144" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0002" x="3042" y="1" width="284" height="233" frameX="-40" frameY="-78" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0003" x="3042" y="1" width="284" height="233" frameX="-40" frameY="-78" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0004" x="3327" y="1" width="277" height="231" frameX="-41" frameY="-76" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0005" x="3327" y="1" width="277" height="231" frameX="-41" frameY="-76" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend don miss0006" x="3606" y="1" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0007" x="3606" y="1" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0008" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0009" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0010" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0011" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0012" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend dow miss0013" x="1" y="309" width="279" height="231" frameX="-38" frameY="-77" frameWidth="356" frameHeight="315" />
+	<SubTexture name="boyfriend left0000" x="281" y="309" width="308" height="241" frameX="0" frameY="-5" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0001" x="281" y="309" width="308" height="241" frameX="0" frameY="-5" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0002" x="590" y="309" width="301" height="244" frameX="-11" frameY="-1" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0003" x="590" y="309" width="301" height="244" frameX="-11" frameY="-1" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0004" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0005" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0006" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0007" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0008" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0009" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0010" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0011" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0012" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend left0013" x="892" y="309" width="301" height="245" frameX="-12" frameY="0" frameWidth="313" frameHeight="245" />
+	<SubTexture name="boyfriend lef miss0000" x="1194" y="309" width="472" height="180" frameX="0" frameY="-154" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0001" x="1668" y="309" width="267" height="358" frameX="-141" frameY="0" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0002" x="1936" y="309" width="300" height="244" frameX="-118" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0003" x="1936" y="309" width="300" height="244" frameX="-118" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0004" x="2238" y="309" width="314" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0005" x="2238" y="309" width="314" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0006" x="2553" y="309" width="305" height="243" frameX="-117" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0007" x="2553" y="309" width="305" height="243" frameX="-117" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0008" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0009" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0010" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0011" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0012" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend lef miss0013" x="2859" y="309" width="300" height="243" frameX="-122" frameY="-91" frameWidth="472" frameHeight="358" />
+	<SubTexture name="boyfriend right0000" x="3161" y="309" width="259" height="284" frameX="-9" frameY="0" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0001" x="3161" y="309" width="259" height="284" frameX="-9" frameY="0" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0002" x="3421" y="309" width="296" height="280" frameX="-1" frameY="-8" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0003" x="3421" y="309" width="296" height="280" frameX="-1" frameY="-8" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0004" x="3718" y="309" width="286" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0005" x="3718" y="309" width="286" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0006" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0007" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0008" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0009" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0010" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0011" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0012" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend right0013" x="1" y="668" width="288" height="278" frameX="0" frameY="-9" frameWidth="297" frameHeight="288" />
+	<SubTexture name="boyfriend righ miss0000" x="290" y="668" width="159" height="361" frameX="-103" frameY="0" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0001" x="450" y="668" width="372" height="252" frameX="0" frameY="-109" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0002" x="823" y="668" width="280" height="291" frameX="-25" frameY="-75" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0003" x="823" y="668" width="280" height="291" frameX="-25" frameY="-75" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0004" x="1105" y="668" width="278" height="292" frameX="-25" frameY="-67" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0005" x="1105" y="668" width="278" height="292" frameX="-25" frameY="-67" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0006" x="1384" y="668" width="279" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0007" x="1384" y="668" width="279" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0008" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0009" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0010" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0011" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0012" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend righ miss0013" x="1665" y="668" width="281" height="292" frameX="-27" frameY="-69" frameWidth="372" frameHeight="366" />
+	<SubTexture name="boyfriend up0000" x="1947" y="668" width="308" height="324" frameX="0" frameY="0" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0001" x="1947" y="668" width="308" height="324" frameX="0" frameY="0" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0002" x="2256" y="668" width="306" height="314" frameX="-3" frameY="-11" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0003" x="2256" y="668" width="306" height="314" frameX="-3" frameY="-11" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0004" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0005" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0006" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0007" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0008" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0009" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0010" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0011" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0012" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend up0013" x="2564" y="668" width="306" height="312" frameX="-4" frameY="-12" frameWidth="309" frameHeight="325" />
+	<SubTexture name="boyfriend u miss0000" x="2871" y="668" width="119" height="423" frameX="-147" frameY="0" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0001" x="2991" y="668" width="455" height="219" frameX="0" frameY="-212" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0002" x="3447" y="668" width="353" height="331" frameX="-61" frameY="-94" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0003" x="1" y="1093" width="344" height="331" frameX="-70" frameY="-94" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0004" x="346" y="1093" width="305" height="331" frameX="-73" frameY="-92" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0005" x="346" y="1093" width="305" height="331" frameX="-73" frameY="-92" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0006" x="653" y="1093" width="312" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0007" x="653" y="1093" width="312" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0008" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0009" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0010" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0011" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0012" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+	<SubTexture name="boyfriend u miss0013" x="966" y="1093" width="310" height="332" frameX="-70" frameY="-93" frameWidth="455" frameHeight="431" />
+</TextureAtlas>
