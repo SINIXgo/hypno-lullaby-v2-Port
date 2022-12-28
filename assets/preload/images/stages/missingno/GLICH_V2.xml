@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GLICH_V2.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Glich_Perez0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0002" x="1280" y="0" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0003" x="2560" y="0" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0004" x="0" y="720" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0005" x="1280" y="720" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0006" x="2560" y="720" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0007" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0008" x="1280" y="1440" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0009" x="2560" y="1440" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0010" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0011" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0012" x="2560" y="2160" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0013" x="0" y="2880" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0014" x="1280" y="2880" width="1280" height="720"/>
+	<SubTexture name="Glich_Perez0015" x="2560" y="2880" width="1280" height="720"/>
+</TextureAtlas>
