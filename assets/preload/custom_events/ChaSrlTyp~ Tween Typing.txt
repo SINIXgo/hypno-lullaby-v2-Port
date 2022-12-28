@@ -1,0 +1,9 @@
+Changes the Tweens -
+ Value 1:
+   Set Tween type
+ Value 2:
+   Set Duration type
+
+  Default's are 'quadOut' and '0.5'
+
+Quick Note: Will revert after the Base Event is used!

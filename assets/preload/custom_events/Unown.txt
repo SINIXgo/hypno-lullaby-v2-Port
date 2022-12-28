@@ -1,0 +1,10 @@
+unknown prompt from monochrome
+
+value 1: countdown in steps
+
+value 2: message override (leave blank for random
+text from script)
+
+script by cyn
+--thanks man 
+ - laztrix

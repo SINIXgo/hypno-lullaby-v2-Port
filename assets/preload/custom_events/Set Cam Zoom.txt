@@ -1,0 +1,6 @@
+Sets Camera Zoom
+
+Value 1: Cam zoom
+
+Value 2: si está en blanco, se acercará suavemente con regularidad,
+de lo contrario, hará un zoom instantáneo

@@ -1,0 +1,2 @@
+value1 = Si agregas -1 ,va a MX/Si lo dejas vacio ,va a Lord X/Si agregas 1,va a Hypno
+value2 = VACÍO
