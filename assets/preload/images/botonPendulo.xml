@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="botonPendulo.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nonPress0000" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0000" x="270" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0001" x="270" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0002" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0003" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0004" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0005" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0006" x="0" y="0" width="135" height="135"/>
+	<SubTexture name="Pressed0007" x="0" y="0" width="135" height="135"/>
+</TextureAtlas>
