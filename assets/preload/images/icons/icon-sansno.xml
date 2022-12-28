@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-sansno.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SansnoIdle0000" x="0" y="90" width="252" height="100" frameX="0" frameY="0" frameWidth="252" frameHeight="100"/>
+	<SubTexture name="SansnoIdle0001" x="248" y="89" width="252" height="100" frameX="-100" frameY="0" frameWidth="252" frameHeight="100"/>
+</TextureAtlas>

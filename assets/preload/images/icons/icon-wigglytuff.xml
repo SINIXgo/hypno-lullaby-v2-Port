@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wigglytuff.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wigglySinMirar0000" x="0" y="0" width="136" height="173"/>
+	<SubTexture name="wigglyMiraUnPoquito0000" x="164" y="0" width="136" height="173"/>
+	<SubTexture name="wigglyTeQuiereVer0000" x="328" y="0" width="136" height="173"/>
+	<SubTexture name="wigglyTeVe0000" x="470" y="0" width="136" height="173"/>
+</TextureAtlas>
