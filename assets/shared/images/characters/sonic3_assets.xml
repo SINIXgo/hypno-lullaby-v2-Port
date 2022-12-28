@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gffisk assets.png">
+	
+	
+	<SubTexture name="gffisk down0000" x="5" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0001" x="96" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0002" x="188" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0003" x="279" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0004" x="371" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0005" x="462" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0006" x="554" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0007" x="645" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0008" x="737" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0009" x="828" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0010" x="920" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0011" x="1011" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0012" x="1103" y="5" width="86" height="85" />
+	<SubTexture name="gffisk down0013" x="1194" y="5" width="86" height="85" />
+	<SubTexture name="gffisk idle0000" x="1286" y="5" width="86" height="85" />
+	<SubTexture name="gffisk idle0001" x="1377" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0000" x="1469" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0001" x="1560" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0002" x="1652" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0003" x="1743" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0004" x="1835" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0005" x="1926" y="5" width="86" height="85" />
+	<SubTexture name="gffisk left0006" x="5" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0007" x="96" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0008" x="188" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0009" x="279" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0010" x="371" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0011" x="462" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0012" x="554" y="95" width="86" height="85" />
+	<SubTexture name="gffisk left0013" x="645" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0000" x="737" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0001" x="828" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0002" x="920" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0003" x="1011" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0004" x="1103" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0005" x="1194" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0006" x="1286" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0007" x="1377" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0008" x="1469" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0009" x="1560" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0010" x="1652" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0011" x="1743" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0012" x="1835" y="95" width="86" height="85" />
+	<SubTexture name="gffisk right0013" x="1926" y="95" width="86" height="85" />
+	<SubTexture name="gffisk up0000" x="5" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0001" x="96" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0002" x="188" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0003" x="279" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0004" x="371" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0005" x="462" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0006" x="554" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0007" x="645" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0008" x="737" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0009" x="828" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0010" x="920" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0011" x="1011" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0012" x="1103" y="186" width="86" height="85" />
+	<SubTexture name="gffisk up0013" x="1194" y="186" width="86" height="85" />
+	<SubTexture name="the power of God0000" x="1286" y="186" width="160" height="112" />
+	<SubTexture name="the power of God0001" x="1451" y="186" width="160" height="112" />
+	<SubTexture name="the power of God0002" x="1616" y="186" width="160" height="112" />
+	<SubTexture name="the power of God0003" x="1781" y="186" width="160" height="112" />
+	<SubTexture name="the power of God0004" x="5" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0005" x="170" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0006" x="335" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0007" x="500" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0008" x="665" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0009" x="830" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0010" x="995" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0011" x="1160" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0012" x="1325" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0013" x="1490" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0014" x="1655" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0015" x="1820" y="303" width="160" height="112" />
+	<SubTexture name="the power of God0016" x="5" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0017" x="170" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0018" x="335" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0019" x="500" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0020" x="665" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0021" x="830" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0022" x="995" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0023" x="1160" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0024" x="1325" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0025" x="1490" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0026" x="1655" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0027" x="1820" y="420" width="160" height="112" />
+	<SubTexture name="the power of God0028" x="5" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0029" x="170" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0030" x="335" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0031" x="500" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0032" x="665" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0033" x="830" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0034" x="995" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0035" x="1160" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0036" x="1325" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0037" x="1490" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0038" x="1655" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0039" x="1820" y="537" width="160" height="112" />
+	<SubTexture name="the power of God0040" x="5" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0041" x="170" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0042" x="335" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0043" x="500" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0044" x="665" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0045" x="830" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0046" x="995" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0047" x="1160" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0048" x="1325" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0049" x="1490" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0050" x="1655" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0051" x="1820" y="654" width="160" height="112" />
+	<SubTexture name="the power of God0052" x="5" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0053" x="170" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0054" x="335" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0055" x="500" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0056" x="665" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0057" x="830" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0058" x="995" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0059" x="1160" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0060" x="1325" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0061" x="1490" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0062" x="1655" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0063" x="1820" y="771" width="160" height="112" />
+	<SubTexture name="the power of God0064" x="5" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0065" x="170" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0066" x="335" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0067" x="500" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0068" x="665" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0069" x="830" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0070" x="995" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0071" x="1160" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0072" x="1325" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0073" x="1490" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0074" x="1655" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0075" x="1820" y="888" width="160" height="112" />
+	<SubTexture name="the power of God0076" x="5" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0077" x="170" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0078" x="335" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0079" x="500" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0080" x="665" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0081" x="830" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0082" x="995" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0083" x="1160" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0084" x="1325" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0085" x="1490" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0086" x="1655" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0087" x="1820" y="1005" width="160" height="112" />
+	<SubTexture name="the power of God0088" x="5" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0089" x="170" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0090" x="335" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0091" x="500" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0092" x="665" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0093" x="830" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0094" x="995" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0095" x="1160" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0096" x="1325" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0097" x="1490" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0098" x="1655" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0099" x="1820" y="1122" width="160" height="112" />
+	<SubTexture name="the power of God0100" x="5" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0101" x="170" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0102" x="335" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0103" x="500" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0104" x="665" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0105" x="830" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0106" x="995" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0107" x="1160" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0108" x="1325" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0109" x="1490" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0110" x="1655" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0111" x="1820" y="1239" width="160" height="112" />
+	<SubTexture name="the power of God0112" x="5" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0113" x="170" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0114" x="335" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0115" x="500" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0116" x="665" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0117" x="830" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0118" x="995" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0119" x="1160" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0120" x="1325" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0121" x="1490" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0122" x="1655" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0123" x="1820" y="1356" width="160" height="112" />
+	<SubTexture name="the power of God0124" x="5" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0125" x="170" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0126" x="335" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0127" x="500" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0128" x="665" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0129" x="830" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0130" x="995" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0131" x="1160" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0132" x="1325" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0133" x="1490" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0134" x="1655" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0135" x="1820" y="1473" width="160" height="112" />
+	<SubTexture name="the power of God0136" x="5" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0137" x="170" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0138" x="335" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0139" x="500" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0140" x="665" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0141" x="830" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0142" x="995" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0143" x="1160" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0144" x="1325" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0145" x="1490" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0146" x="1655" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0147" x="1820" y="1590" width="160" height="112" />
+	<SubTexture name="the power of God0148" x="5" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0149" x="170" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0150" x="335" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0151" x="500" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0152" x="665" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0153" x="830" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0154" x="995" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0155" x="1160" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0156" x="1325" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0157" x="1490" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0158" x="1655" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0159" x="1820" y="1707" width="160" height="112" />
+	<SubTexture name="the power of God0160" x="5" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0161" x="170" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0162" x="335" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0163" x="500" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0164" x="665" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0165" x="830" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0166" x="995" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0167" x="1160" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0168" x="1325" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0169" x="1490" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0170" x="1655" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0171" x="1820" y="1824" width="160" height="112" />
+	<SubTexture name="the power of God0172" x="5" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0173" x="170" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0174" x="335" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0175" x="500" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0176" x="665" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0177" x="830" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0178" x="995" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0179" x="1160" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0180" x="1325" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0181" x="1490" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0182" x="1655" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0183" x="1820" y="1941" width="160" height="112" />
+	<SubTexture name="the power of God0184" x="5" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0185" x="170" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0186" x="335" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0187" x="500" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0188" x="665" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0189" x="830" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0190" x="995" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0191" x="1160" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0192" x="1325" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0193" x="1490" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0194" x="1655" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0195" x="1820" y="2058" width="160" height="112" />
+	<SubTexture name="the power of God0196" x="5" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0197" x="170" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0198" x="335" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0199" x="500" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0200" x="665" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0201" x="830" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0202" x="995" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0203" x="1160" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0204" x="1325" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0205" x="1490" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0206" x="1655" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0207" x="1820" y="2175" width="160" height="112" />
+	<SubTexture name="the power of God0208" x="5" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0209" x="170" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0210" x="335" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0211" x="500" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0212" x="665" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0213" x="830" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0214" x="995" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0215" x="1160" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0216" x="1325" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0217" x="1490" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0218" x="1655" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0219" x="1820" y="2292" width="160" height="112" />
+	<SubTexture name="the power of God0220" x="5" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0221" x="170" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0222" x="335" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0223" x="500" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0224" x="665" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0225" x="830" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0226" x="995" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0227" x="1160" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0228" x="1325" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0229" x="1490" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0230" x="1655" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0231" x="1820" y="2409" width="160" height="112" />
+	<SubTexture name="the power of God0232" x="5" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0233" x="170" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0234" x="335" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0235" x="500" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0236" x="665" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0237" x="830" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0238" x="995" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0239" x="1160" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0240" x="1325" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0241" x="1490" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0242" x="1655" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0243" x="1820" y="2526" width="160" height="112" />
+	<SubTexture name="the power of God0244" x="5" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0245" x="170" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0246" x="335" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0247" x="500" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0248" x="665" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0249" x="830" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0250" x="995" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0251" x="1160" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0252" x="1325" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0253" x="1490" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0254" x="1655" y="2643" width="160" height="112" />
+	<SubTexture name="the power of God0255" x="1820" y="2643" width="160" height="112" />
+</TextureAtlas>

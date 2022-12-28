@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gffisk assets.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gffisk down0000" x="10" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0001" x="193" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0002" x="376" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0003" x="559" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0004" x="742" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0005" x="925" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0006" x="1108" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0007" x="1291" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0008" x="1474" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0009" x="1657" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0010" x="1840" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0011" x="2023" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0012" x="2206" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk down0013" x="2389" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk idle0000" x="2572" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk idle0001" x="2755" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0000" x="2938" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0001" x="3121" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0002" x="3304" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0003" x="3487" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0004" x="3670" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0005" x="3853" y="10" width="173" height="171"/>
+	<SubTexture name="gffisk left0006" x="10" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0007" x="193" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0008" x="376" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0009" x="559" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0010" x="742" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0011" x="925" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0012" x="1108" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk left0013" x="1291" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0000" x="1474" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0001" x="1657" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0002" x="1840" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0003" x="2023" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0004" x="2206" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0005" x="2389" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0006" x="2572" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0007" x="2755" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0008" x="2938" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0009" x="3121" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0010" x="3304" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0011" x="3487" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0012" x="3670" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk right0013" x="3853" y="191" width="173" height="171"/>
+	<SubTexture name="gffisk up0000" x="10" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0001" x="193" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0002" x="376" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0003" x="559" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0004" x="742" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0005" x="925" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0006" x="1108" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0007" x="1291" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0008" x="1474" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0009" x="1657" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0010" x="1840" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0011" x="2023" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0012" x="2206" y="372" width="173" height="171"/>
+	<SubTexture name="gffisk up0013" x="2389" y="372" width="173" height="171"/>
+</TextureAtlas>
