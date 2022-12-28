@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="splash-brimstone.png">
+	<!--Por Nickobelit-->
+	<SubTexture name="note splash purple 10000" x="0" y="0" width="69" height="67"/>
+	<SubTexture name="note splash purple 10001" x="0" y="69" width="69" height="67"/>
+	<SubTexture name="note splash purple 10002" x="0" y="138" width="69" height="67"/>
+	<SubTexture name="note splash purple 10003" x="0" y="206" width="69" height="67"/>
+	<SubTexture name="note splash purple 10004" x="0" y="273" width="69" height="67"/>
+	<SubTexture name="note splash purple 10005" x="0" y="341" width="69" height="67"/>
+	<SubTexture name="note splash purple 10006" x="0" y="477" width="69" height="67"/>
+	<SubTexture name="note splash blue 10000" x="69" y="0" width="69" height="67"/>
+	<SubTexture name="note splash blue 10001" x="69" y="69" width="69" height="67"/>
+	<SubTexture name="note splash blue 10002" x="69" y="138" width="69" height="67"/>
+	<SubTexture name="note splash blue 10003" x="69" y="206" width="69" height="67"/>
+	<SubTexture name="note splash blue 10004" x="69" y="273" width="69" height="67"/>
+	<SubTexture name="note splash blue 10005" x="69" y="341" width="69" height="67"/>
+	<SubTexture name="note splash blue 10006" x="69" y="477" width="69" height="67"/>
+	<SubTexture name="note splash green 10000" x="138" y="0" width="69" height="67"/>
+	<SubTexture name="note splash green 10001" x="138" y="69" width="69" height="67"/>
+	<SubTexture name="note splash green 10002" x="138" y="138" width="69" height="67"/>
+	<SubTexture name="note splash green 10003" x="138" y="206" width="69" height="67"/>
+	<SubTexture name="note splash green 10004" x="138" y="273" width="69" height="67"/>
+	<SubTexture name="note splash green 10005" x="138" y="341" width="69" height="67"/>
+	<SubTexture name="note splash green 10006" x="138" y="477" width="69" height="67"/>
+	<SubTexture name="note splash red 10000" x="203" y="0" width="69" height="67"/>
+	<SubTexture name="note splash red 10001" x="203" y="69" width="69" height="67"/>
+	<SubTexture name="note splash red 10002" x="203" y="138" width="69" height="67"/>
+	<SubTexture name="note splash red 10003" x="203" y="206" width="69" height="67"/>
+	<SubTexture name="note splash red 10004" x="203" y="273" width="69" height="67"/>
+	<SubTexture name="note splash red 10005" x="203" y="341" width="69" height="67"/>
+	<SubTexture name="note splash red 10006" x="203" y="477" width="69" height="67"/>
+</TextureAtlas>
