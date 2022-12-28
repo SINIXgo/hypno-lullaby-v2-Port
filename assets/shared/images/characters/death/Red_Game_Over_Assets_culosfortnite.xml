@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Red_Game_Over_Assets_culosfortnite.png">
+	<SubTexture name="Dead Loop0000" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0001" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0002" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0003" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0004" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0005" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0006" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0007" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0008" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0009" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0010" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Dead Loop0011" x="0" y="0" width="483" height="341" />
+	<SubTexture name="Death0000" x="495" y="0" width="512" height="342" />
+	<SubTexture name="Death0001" x="1019" y="0" width="512" height="342" />
+	<SubTexture name="Death0002" x="1019" y="0" width="512" height="342" />
+	<SubTexture name="Death0003" x="1019" y="0" width="512" height="342" />
+	<SubTexture name="Death0004" x="1543" y="0" width="512" height="342" />
+	<SubTexture name="Death0005" x="1543" y="0" width="512" height="342" />
+	<SubTexture name="Death0006" x="1543" y="0" width="512" height="342" />
+	<SubTexture name="Death0007" x="2067" y="0" width="512" height="342" />
+	<SubTexture name="Death0008" x="2067" y="0" width="512" height="342" />
+	<SubTexture name="Death0009" x="2591" y="0" width="512" height="342" />
+	<SubTexture name="Death0010" x="2591" y="0" width="512" height="342" />
+	<SubTexture name="Death0011" x="3115" y="0" width="512" height="342" />
+	<SubTexture name="Death0012" x="3115" y="0" width="512" height="342" />
+	<SubTexture name="Death0013" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0014" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0015" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0016" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0017" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0018" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0019" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0020" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0021" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0022" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0023" x="0" y="354" width="512" height="342" />
+	<SubTexture name="Death0024" x="524" y="354" width="512" height="342" />
+	<SubTexture name="Death0025" x="524" y="354" width="512" height="342" />
+	<SubTexture name="Death0026" x="524" y="354" width="512" height="342" />
+	<SubTexture name="Death0027" x="524" y="354" width="512" height="342" />
+	<SubTexture name="Death0028" x="524" y="354" width="512" height="342" />
+	<SubTexture name="Death0029" x="1048" y="354" width="512" height="342" />
+	<SubTexture name="Death0030" x="1048" y="354" width="512" height="342" />
+	<SubTexture name="Death0031" x="1048" y="354" width="512" height="342" />
+	<SubTexture name="Death0032" x="1572" y="354" width="512" height="342" />
+	<SubTexture name="Death0033" x="1572" y="354" width="512" height="342" />
+	<SubTexture name="Death0034" x="1572" y="354" width="512" height="342" />
+	<SubTexture name="Death0035" x="2096" y="354" width="512" height="342" />
+	<SubTexture name="Death0036" x="2096" y="354" width="512" height="342" />
+	<SubTexture name="Death0037" x="2620" y="354" width="512" height="342" />
+	<SubTexture name="Death0038" x="2620" y="354" width="512" height="342" />
+	<SubTexture name="Death0039" x="2620" y="354" width="512" height="342" />
+	<SubTexture name="Death0040" x="3144" y="354" width="512" height="342" />
+	<SubTexture name="Death0041" x="3144" y="354" width="512" height="342" />
+	<SubTexture name="Death0042" x="3144" y="354" width="512" height="342" />
+	<SubTexture name="Death0043" x="0" y="709" width="512" height="342" />
+	<SubTexture name="Death0044" x="0" y="709" width="512" height="342" />
+	<SubTexture name="Death0045" x="0" y="709" width="512" height="342" />
+	<SubTexture name="Death0046" x="0" y="709" width="512" height="342" />
+	<SubTexture name="Death0047" x="524" y="709" width="512" height="342" />
+	<SubTexture name="Death0048" x="524" y="709" width="512" height="342" />
+	<SubTexture name="Death0049" x="1048" y="709" width="512" height="342" />
+	<SubTexture name="Death0050" x="1048" y="709" width="512" height="342" />
+	<SubTexture name="Death0051" x="1572" y="709" width="512" height="342" />
+	<SubTexture name="Death0052" x="1572" y="709" width="512" height="342" />
+	<SubTexture name="Death0053" x="2096" y="709" width="512" height="342" />
+	<SubTexture name="Death0054" x="2096" y="709" width="512" height="342" />
+	<SubTexture name="Death0055" x="2620" y="709" width="512" height="342" />
+	<SubTexture name="Death0056" x="2620" y="709" width="512" height="342" />
+	<SubTexture name="Death0057" x="3144" y="709" width="512" height="342" />
+	<SubTexture name="Death0058" x="3144" y="709" width="512" height="342" />
+	<SubTexture name="Death0059" x="0" y="1063" width="512" height="342" />
+	<SubTexture name="Death0060" x="0" y="1063" width="512" height="342" />
+	<SubTexture name="Death0061" x="524" y="1063" width="512" height="342" />
+	<SubTexture name="Death0062" x="524" y="1063" width="512" height="342" />
+	<SubTexture name="Death0063" x="1048" y="1063" width="512" height="342" />
+	<SubTexture name="Death0064" x="1048" y="1063" width="512" height="342" />
+	<SubTexture name="Death0065" x="1572" y="1063" width="512" height="342" />
+	<SubTexture name="Death0066" x="1572" y="1063" width="512" height="342" />
+	<SubTexture name="Death0067" x="2096" y="1063" width="512" height="342" />
+	<SubTexture name="Death0068" x="2096" y="1063" width="512" height="342" />
+	<SubTexture name="Death0069" x="2620" y="1063" width="512" height="342" />
+	<SubTexture name="Death0070" x="2620" y="1063" width="512" height="342" />
+	<SubTexture name="Death0071" x="3144" y="1063" width="512" height="342" />
+	<SubTexture name="Death0072" x="3144" y="1063" width="512" height="342" />
+	<SubTexture name="Death0073" x="0" y="1418" width="512" height="342" />
+	<SubTexture name="Death0074" x="0" y="1418" width="512" height="342" />
+	<SubTexture name="Death0075" x="524" y="1418" width="512" height="342" />
+	<SubTexture name="Death0076" x="524" y="1418" width="512" height="342" />
+	<SubTexture name="Death0077" x="1048" y="1418" width="512" height="342" />
+	<SubTexture name="Death0078" x="1048" y="1418" width="512" height="342" />
+	<SubTexture name="Death0079" x="1572" y="1418" width="512" height="342" />
+	<SubTexture name="Death0080" x="1572" y="1418" width="512" height="342" />
+	<SubTexture name="Death0081" x="2096" y="1418" width="512" height="342" />
+	<SubTexture name="Death0082" x="2096" y="1418" width="512" height="342" />
+	<SubTexture name="Confirm0000" x="2620" y="1418" width="492" height="345" />
+	<SubTexture name="Confirm0001" x="3124" y="1418" width="492" height="345" />
+	<SubTexture name="Confirm0002" x="0" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0003" x="504" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0004" x="1008" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0005" x="1512" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0006" x="2016" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0007" x="2520" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0008" x="3024" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0009" x="3024" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0010" x="3528" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0011" x="3528" y="1775" width="492" height="345" />
+	<SubTexture name="Confirm0012" x="0" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0013" x="0" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0014" x="504" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0015" x="504" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0016" x="1008" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0017" x="1008" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0018" x="1512" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0019" x="1512" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0020" x="2016" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0021" x="2016" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0022" x="2520" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0023" x="2520" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0024" x="3024" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0025" x="3024" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0026" x="3528" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0027" x="3528" y="2132" width="492" height="345" />
+	<SubTexture name="Confirm0028" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0029" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0030" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0031" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0032" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0033" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0034" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0035" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0036" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0037" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0038" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0039" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0040" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0041" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0042" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0043" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0044" x="0" y="2489" width="492" height="345" />
+	<SubTexture name="Confirm0045" x="0" y="2489" width="492" height="345" />
+</TextureAtlas>
