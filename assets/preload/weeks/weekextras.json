@@ -1,0 +1,50 @@
+{
+	"storyName": "fuckin horrible",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"bf"
+	],
+	"songs": [
+		[
+			"missingcraft",
+			"missingno",
+			[
+				75,
+				120,
+				35
+			]
+		],
+		[
+			"sansno",
+			"shinto",
+			[
+				60,
+				0,
+				0
+			]
+		],
+		[
+			"through-the-fire-and-flames",
+			"face",
+			[
+				195,
+				120,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekhypno",
+	"hiddenUntilUnlocked": false
+}
