@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lavabottom.png">
+	
+	
+	<SubTexture name="lavabottom0000" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0001" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0002" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0003" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0004" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0005" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0006" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0007" x="10" y="10" width="2051" height="425" />
+	<SubTexture name="lavabottom0008" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0009" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0010" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0011" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0012" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0013" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0014" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0015" x="10" y="445" width="2051" height="425" />
+	<SubTexture name="lavabottom0016" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0017" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0018" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0019" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0020" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0021" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0022" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0023" x="10" y="880" width="2051" height="425" />
+	<SubTexture name="lavabottom0024" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0025" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0026" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0027" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0028" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0029" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0030" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0031" x="10" y="1315" width="2051" height="425" />
+	<SubTexture name="lavabottom0032" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0033" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0034" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0035" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0036" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0037" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0038" x="10" y="1750" width="2051" height="425" />
+	<SubTexture name="lavabottom0039" x="10" y="1750" width="2051" height="425" />
+</TextureAtlas>
