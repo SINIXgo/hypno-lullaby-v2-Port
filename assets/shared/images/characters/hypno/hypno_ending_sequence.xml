@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hypno ending sequence.png">
+	
+	
+	<SubTexture name="Ending instance 10000" x="2" y="2" width="572" height="608" frameX="-352" frameY="-93" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10001" x="575" y="2" width="584" height="641" frameX="-340" frameY="-60" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10002" x="1159" y="2" width="653" height="699" frameX="-271" frameY="-3" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10003" x="1813" y="2" width="708" height="689" frameX="-217" frameY="-13" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10004" x="2521" y="2" width="810" height="677" frameX="-114" frameY="-25" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10005" x="2" y="702" width="818" height="702" frameX="-106" frameY="0" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10006" x="821" y="702" width="883" height="673" frameX="-41" frameY="-29" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10007" x="1704" y="702" width="868" height="683" frameX="-56" frameY="-20" frameWidth="924" frameHeight="702" />
+	<SubTexture name="Ending instance 10008" x="2573" y="702" width="924" height="646" frameX="0" frameY="-55" frameWidth="924" frameHeight="702" />
+</TextureAtlas>
