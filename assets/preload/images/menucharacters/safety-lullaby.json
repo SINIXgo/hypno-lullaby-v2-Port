@@ -1,0 +1,11 @@
+{
+	"idle_anim": "safety-lullaby",
+	"image": "safety-lullaby",
+	"position": [
+		330,
+		135
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

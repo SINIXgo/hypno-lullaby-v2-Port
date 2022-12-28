@@ -1,0 +1,11 @@
+{
+	"idle_anim": "red menu instance 1",
+	"image": "red_menu",
+	"position": [
+		101,
+		-33
+	],
+	"flipX": false,
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}

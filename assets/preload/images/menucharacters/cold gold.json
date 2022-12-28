@@ -1,0 +1,11 @@
+{
+	"idle_anim": "cold gold menu instance 1",
+	"image": "cold_gold_menu",
+	"position": [
+		200,
+		-70
+	],
+	"flipX": false,
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}

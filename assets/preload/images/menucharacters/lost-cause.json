@@ -1,0 +1,11 @@
+{
+	"idle_anim": "lost-cause",
+	"image": "lost-cause",
+	"position": [
+		-50,
+		80
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

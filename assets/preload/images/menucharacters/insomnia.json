@@ -1,0 +1,11 @@
+{
+	"idle_anim": "insomnia",
+	"image": "insomnia",
+	"position": [
+		85,
+		72
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "M Dad Idle"
+}
